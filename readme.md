@@ -1,7 +1,7 @@
 #  RETO TÉCNICO
 
 ### Descripción:
-* Resolver para resolver en vivo en entrevista técnica de Laboratoria*
+* Resolver retos en vivo en entrevista técnica de Laboratoria*
 
 *Ejercicio 1: Dos columnas*
 - Crea una interfaz web de dos columnas usando HTML y CSS.
